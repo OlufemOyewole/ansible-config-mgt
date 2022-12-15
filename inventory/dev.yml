@@ -10,3 +10,5 @@
 
 [lb]
 172.31.91.139 ansible_ssh_user='ec2-user'
+
+# use what has been provided
