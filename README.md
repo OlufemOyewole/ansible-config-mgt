@@ -10,5 +10,4 @@ Artifactory testing. Thank you
 
 This is inetresting. Okay.
 Halle...   Now here. 
-
-Very hopefull. 
+Nope.
