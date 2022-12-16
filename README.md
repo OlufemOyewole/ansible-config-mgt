@@ -8,4 +8,4 @@ Now update artifact
 
 Artifactory testing. Thank you
 
-This is inetresting. 
+This is inetresting. Okay.
