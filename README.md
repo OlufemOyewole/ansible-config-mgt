@@ -2,4 +2,4 @@
 
 Welcome everyone!  You are the best!
 
-It is working fine.
+It is working fine. Welcome back, dude!
