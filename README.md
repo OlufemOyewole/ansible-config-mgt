@@ -7,3 +7,5 @@ It is working fine. Welcome back, dude! Thanks.
 Now update artifact
 
 Artifactory testing. Thank you
+
+This is inetresting. 
