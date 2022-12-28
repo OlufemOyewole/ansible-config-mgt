@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "python.defaultInterpreterPath": "C:\\Users\\isaia\\anaconda3\\envs\\base1\\python.exe",
+    "security.workspace.trust.untrustedFiles": "open",
+    "remote.SSH.remotePlatform": {
+        "jenkins-ansible": "linux"
+    }
+}
